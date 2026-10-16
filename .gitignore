@@ -1,0 +1,28 @@
+# Build output
+/usagi
+/usagi.exe
+# legacy binary name (pre-rebrand)
+/agent
+/agent.exe
+*.o
+
+# Local secrets / machine-specific settings (see .env.example).
+# `.env` is never committed; `.env.example` is the committed template.
+.env
+.env.*
+!.env.example
+
+# Build / tool scratch
+.agent.*/
+test_tmp_files/
+chat.json
+
+# Local V compiler tree (used to build locally, not part of this project)
+/v/
+
+# OS / editor cruft
+.DS_Store
+*.swp
+*~
+.vscode/
+.idea/

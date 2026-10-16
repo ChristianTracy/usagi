@@ -1,0 +1,38 @@
+{
+  "system": "You are a coding assistant.",
+  "reasoning": true,
+  "stream_options": true,
+  "reasoning_effort": "",
+  "thinking_budget": 0,
+  "read_timeout": 300,
+  "single_tool_call": true,
+  "max_tool_output": 6000,
+  "tool_timeout": 120,
+  "workspace": "",
+  "server": "auto",
+  "tool_choice": "",
+  "parallel_tool_calls": false,
+  "tui": {
+    "bell": false,
+    "timestamps": true,
+    "thinking_default": true,
+    "input_history": true,
+    "theme": "dark",
+    "mouse": false,
+    "animation": "full",
+    "pet": "pixel"
+  },
+  "sessions": {
+    "dir": "",
+    "autosave": true,
+    "restore_workspace": true,
+    "max": 50,
+    "max_age_days": 0
+  },
+  "colors": {
+    "content": "1;96",
+    "thinking": "3;35",
+    "tool": "48;5;205;30",
+    "debug": "2;36"
+  }
+}

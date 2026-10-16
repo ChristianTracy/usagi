@@ -1,0 +1,55 @@
+ (\_/)
+ (o,o)  $ _             idle
+ (" )(")
+
+ (\_/)
+ (-,-)  $ _             blink
+ (" )(")
+
+ (\_/)
+ (O,O)  compiling...    focus
+ (" )(")
+
+ (\_/)
+ (^,^)  root@prod:~#    smug
+ (" )(")
+
+ (\_/)
+ (>,<)  reading logs    squint
+ (" )(")
+
+ (\_/)
+ (.,.)  parsing...      parsing
+ (" )(")
+
+ (\_/)
+ (u,u)  all tests pass  green
+ (" )(")
+
+ (\_/)
+ (x,x)  segfault        crashed
+ (" )(")
+
+ (\_/)
+ (0,0)  !! no route     alarm
+ (" )(")
+
+ (\_/)
+ (T,T)  zzz...          asleep
+ (" )(")
+
+ (\_/)
+ (o,o)  $ sudo deploy   deploy
+ (" )(")
+
+ (\_/)
+ (<,<)  reading stdin  stdin
+ (" )(")
+
+ (\_/)
+ (o,o)  404 not found   404
+ (" )(")
+
+ (\_/)
+ (o,o)  blue pill? red? matrix
+ (" )(")
